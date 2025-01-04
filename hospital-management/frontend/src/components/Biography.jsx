@@ -11,15 +11,9 @@ const Biography = ({imageUrl}) => {
           <p>Biography</p>
           <h3>Who We Are</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            blanditiis sequi aperiam. Debitis fugiat harum ex maxime illo
-            consequatur mollitia voluptatem omnis nihil nesciunt beatae esse
-            ipsam, sapiente totam aspernatur porro ducimus aperiam nisi. Ex
-            magnam voluptatum consectetur reprehenderit fugiat recusandae aut
-            similique illum natus velit, praesentium nostrum nesciunt. Deleniti,
-            nesciunt laboriosam totam iusto!
+          At ZeeCare Medical Institute, we redefine healthcare by blending advanced technology with a compassionate touch. Our multidisciplinary team of experts is dedicated to providing personalized medical solutions designed to meet the unique needs of every patient. With a focus on innovation, trust, and patient-centered care, ZeeCare is your partner in achieving a healthier, happier life. Your well-being is our commitment, and together, we’ll navigate your path to optimal health.
           </p>
-          <p>We are all in 2024!</p>
+          <p>We are all in 2025!</p>
           <p>We are working on a MERN STACK PROJECT.</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores

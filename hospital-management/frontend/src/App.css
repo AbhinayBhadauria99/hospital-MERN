@@ -7,7 +7,7 @@
   font-family: "Montserrat", sans-serif;
 }
 body {
-  background: #e5e5e5;
+  background: #00aaff72;
 }
 .btn {
   padding: 7px 20px;
@@ -21,7 +21,7 @@ body {
   color: #111;
 }
 .purple-btn {
-  background: #9083d5;
+  background: #1547ff;
   color: #fff;
 }
 p,
@@ -81,6 +81,7 @@ h6 {
 }
 .hero .banner {
   flex: 1;
+  margin-top: 30px;
 }
 .hero .banner h1,
 .hero .banner p {
@@ -403,7 +404,12 @@ footer .content div:last-child div svg {
   padding-right: 20px;
   min-height: 360px;
   margin: 0 10px;
+  border: 1px solid black;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   text-decoration: none;
+}
+.card:hover {
+  background-color: #0000003f;
 }
 .card img {
   position: absolute;
@@ -442,6 +448,7 @@ nav {
   padding-bottom: 20px !important;
   z-index: 2;
 }
+
 nav .logo {
   flex: 1;
   display: flex;
